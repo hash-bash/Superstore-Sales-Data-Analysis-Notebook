@@ -1,5 +1,5 @@
 # Superstore Sales Data Analysis Notebook
-Jupyter Notebook for Superstore Sales Data Analysis.
+Jupyter Notebook for Superstore Sales Data Analysis using Pandas and Matplotlib.
 
 ### Tasks covered in this Notebook are:
 
